@@ -19,8 +19,9 @@
 
 Ќиже пример кода из нашего приложени€:
 
-'''
-<.selector {
+'''html
+.selector {
 	font-family: "Awecome", Arial, sans-serif;
 	color: red;
-}>'''
+}
+'''

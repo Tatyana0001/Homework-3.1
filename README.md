@@ -19,7 +19,7 @@
 
 Ќиже пример кода из нашего приложени€:
 
-```
+```css
 .selector {
 	font-family: "Awecome", Arial, sans-serif;
 	color: red;

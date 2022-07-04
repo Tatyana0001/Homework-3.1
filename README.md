@@ -19,7 +19,8 @@
 
 Ќиже пример кода из нашего приложени€:
 
-.selector {
-  font-family: "Awesome", Arial, sans-serif;
-  color: red;
-}
+'''CPP 
+<.selector {
+	font-family: "Awecome", Arial, sans-serif;
+	color: red;
+}>'''
